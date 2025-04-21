@@ -1,7 +1,7 @@
 # main.py
-from data_preprocessing.data_preprocessing import DataPreprocessor
-from model_training.model_trainer import ModelTrainer
-from model_evaluation.model_evaluator import ModelEvaluator
+from src.data_preprocessing.data_preprocessing import DataPreprocessor
+from src.model_training.model_trainer import ModelTrainer
+from src.model_evaluation.model_evaluator import ModelEvaluator
 from sklearn.model_selection import train_test_split
 import pandas as pd
 
