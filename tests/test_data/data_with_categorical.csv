@@ -1,0 +1,6 @@
+Category,Value,OtherValue
+A,1.0,10.0
+B,2.0,20.0
+A,,30.0
+,4.0,
+C,5.0,50.0

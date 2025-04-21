@@ -1,0 +1,4 @@
+Median_House_Value,Median_Income,Median_Age,Tot_Rooms,Tot_Bedrooms,Population
+100000.0,2.5,30,5.0,2,100.0
+,3.0,40,,3,150.0
+200000.0,3.5,50,7.0,4,
